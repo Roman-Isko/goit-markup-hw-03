@@ -251,16 +251,8 @@ h1, h2, h3, h4, h5, h6, p {
 }
 
 .portfolio-list {
-    
+    display: flex;
     align-items: center;
-}
-
-.bloc-top {
-    display: flex;
-}
-
-.bloc-bottom {
-    display: flex;
 }
 
 .portfolio-item {
