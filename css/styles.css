@@ -115,8 +115,6 @@ img {
 
 .hero {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 600px;
     padding: 188px 0;
 }
 
@@ -128,7 +126,7 @@ img {
     letter-spacing: 0.02em;
     color: #ffffff;
     text-align: center;
-    margin-left: 472px;
+    margin: 0 auto;
     margin-bottom: 48px;
 }
 
@@ -144,7 +142,7 @@ img {
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
-    margin-left: 635.5px;
+    margin: 0 auto;
 }
 
 .hero-btn:hover,
@@ -154,8 +152,6 @@ img {
 
 .features {
     background: #FFFFFF;
-    widt: 1128px;
-    height: 104px;
     margin: 156px;
     padding: 120px 0;
 }
@@ -213,8 +209,6 @@ img {
     color: #2E2F42;
     text-align: center;
     text-transform: capitalize;
-    padding-top: 120px;
-    padding-bottom: 72px;
     margin-bottom: 72px;
 }
 
@@ -306,8 +300,6 @@ img {
 
 .footer {
     background-color: #2E2F42;
-    width: 1440px;
-    height: 312px;
     padding: 100px 0;
 }
 
